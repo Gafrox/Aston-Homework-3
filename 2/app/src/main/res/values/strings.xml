@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Aston Homework 3.2</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="phone_number_hint">Phone number</string>
 </resources>
